@@ -1,1 +1,24 @@
 # sejarah-prosesor
+
+Prosesor adalah otak dari komputer, dan telah mengalami banyak evolusi sejak diperkenalkan. Repositori ini memberikan tinjauan mendalam tentang perkembangan prosesor dari tahun 1970-an hingga saat ini.
+
+## Daftar Isi
+- [Tahun 1970-an](1970s.md)
+- [Tahun 1980-an](1980s.md)
+- [Tahun 1990-an](1990s.md)
+- [Tahun 2000-an](2000s.md)
+# Sejarah Prosesor 1970-an
+
+Pada tahun 1970-an, prosesor mikro pertama kali diperkenalkan. Salah satu yang paling terkenal adalah Intel 4004, yang dirilis pada tahun 1971. Prosesor ini adalah chip mikroprosesor 4-bit pertama dan menandai awal dari revolusi komputer pribadi.
+
+## Intel 4004
+- **Tahun Rilis**: 1971
+- **Arsitektur**: 4-bit
+- **Fitur Utama**: Memiliki 12-bit alamat dan dapat menangani hingga 640 byte memori.
+
+...
+4004 merupakan prosesor komputer pertama yang dirancang dan diproduksi oleh produsen chip Intel. Orang yang merancang chip tersebut adalah
+Ted Hoff dan Federico Faggin dari Intel dan Masatoshi Shima dari Busicom.
+git add .
+git commit -m " dokumen sejarah prosesor"
+git push origin main
